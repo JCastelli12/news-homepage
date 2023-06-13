@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Inter';
-  src: url(../news-homepage-main/assets/fonts/Inter-VariableFont_slnt\wght.ttf);
+  src: url(../../news-homepage-main/assets/fonts/Inter-VariableFont_slnt\wght.ttf) format('truetype');
 }
 
 :root {
